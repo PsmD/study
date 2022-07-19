@@ -1,3 +1,3 @@
 # study
 
-basics skills practice!
+just study note
